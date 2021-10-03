@@ -1,0 +1,315 @@
+* {
+  padding-top: 2px;
+}
+
+#topbar {
+  margin-top: 3px;
+  width: 100%;
+  height: 62px;
+  position: relative;
+  box-sizing: border-box;
+  z-index: 10;
+}
+.logo-img {
+  padding-left: 10%;
+  height: 20px;
+  width: 140px;
+  margin-right: 34%;
+}
+
+.menu-bar {
+  text-align: right;
+  text-decoration: none;
+  color: black;
+  margin-right: 15px;
+}
+
+.menu-bar:hover {
+  text-decoration: underline;
+  color: cornflowerblue;
+  font-size: larger;
+}
+
+.menu-bar1 {
+  margin-right: 5px;
+  color: black;
+}
+
+.menu-bar1:hover {
+  text-decoration: underline;
+  color: cornflowerblue;
+  font-size: larger;
+}
+
+.menu-bar2 {
+  margin-left: 15px;
+  color: black;
+}
+
+.menu-bar2:hover {
+  text-decoration: underline;
+  color: cornflowerblue;
+  font-size: larger;
+}
+
+#wrapper {
+  background-color: #e9f2f7;
+  height: 500px;
+  width: 800px;
+  margin-left: 40px;
+  top: 0px;
+  position: absolute;
+}
+
+#main-text {
+  font-family: "Abel", sans-serif;
+  position: relative;
+  margin-left: 120px;
+  margin-top: 30px;
+  font-size: x-large;
+  font-display: initial;
+  color: black;
+}
+
+#watch {
+  padding-top: 0px;
+  color: black;
+}
+
+#line {
+  display: flex;
+}
+
+#line1 {
+  background-color: black;
+  width: 43%;
+}
+
+#line2 {
+  background-color: black;
+  margin-left: 33px;
+  width: 43%;
+}
+
+#para {
+  display: flex;
+}
+p {
+  font-size: small;
+}
+
+#para2 {
+  margin-left: 40px;
+}
+#wrap {
+  background-color: #deeef8;
+  height: 450px;
+  width: 590px;
+  margin-top: 30px;
+  margin-left: 170px;
+  position: relative;
+}
+.main-img {
+  height: 450px;
+  width: 624px;
+  margin-left: 10px;
+  position: relative;
+  top: -25px;
+  right: -18px;
+}
+#landing-page {
+  display: flex;
+}
+
+.menu-bar3 {
+  margin-left: 120px;
+  text-decoration: none;
+  color: black;
+}
+.menu-bar3:hover {
+  color: cornflowerblue;
+  text-decoration: underline;
+}
+
+.menu-bar4 {
+  color: black;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.menu-bar4:hover {
+  color: cornflowerblue;
+  text-decoration: underline;
+}
+
+#text-2 {
+  margin-left: 120px;
+  top: 0%;
+  font-family: "Abel", sans-serif;
+}
+
+#frame {
+  margin-left: 100px;
+  margin-top: 50px;
+  height: 250px;
+  position: relative;
+}
+
+#frame:hover {
+  opacity: 0.1%;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 10;
+  transition: opacity 1s ease;
+}
+
+#frame6 {
+  margin-left: 100px;
+  margin-top: 50px;
+  height: 250px;
+  position: absolute;
+}
+
+#frame1 {
+  margin-left: 20px;
+  height: 250px;
+  position: relative;
+}
+
+#frame4 {
+  position: relative;
+  height: 517px;
+  width: 400px;
+  margin-top: 50px;
+  margin-right: 40px;
+  float: right;
+}
+
+#frame2 {
+  position: relative;
+  margin-top: 10px;
+  margin-left: 100px;
+  height: 250px;
+}
+
+#frame3 {
+  position: relative;
+  margin-left: 20px;
+  height: 250px;
+}
+
+#wrapper1 {
+  background-color: #e9f2f7;
+  height: 400px;
+  width: 1270px;
+  margin-left: 0px;
+  top: 790px;
+  position: absolute;
+}
+
+#text-3 {
+  margin-left: 120px;
+  top: 0%;
+  font-family: "Abel", sans-serif;
+}
+
+.lk {
+  justify-content: space-between;
+  margin-left: 120px;
+}
+
+#icon-hospi {
+  margin-right: 345px;
+}
+.kl {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 120px;
+}
+
+.h2 {
+  margin-right: 0px;
+  display: inline;
+}
+
+.h3 {
+  margin-right: 264px;
+  display: inline;
+}
+
+.p {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 120px;
+}
+
+.h4 {
+  margin-left: 0px;
+}
+
+.h5 {
+  margin-right: 124px;
+}
+.pp {
+  display: flex;
+}
+.img9 {
+  height: 517px;
+  width: 400px;
+  margin-left: 20px;
+}
+
+.img10 {
+  height: 517px;
+  width: 400px;
+  position: relative;
+  /* position: absolute; */
+}
+
+#wrapper2 {
+  background-color: #e9f2f7;
+  height: 350px;
+  width: 570px;
+  margin-left: 70px;
+  top: 1705px;
+  position: absolute;
+}
+
+.l {
+  display: flexbox;
+  margin-left: 90px;
+  margin-right: 50px;
+  font-size: x-large;
+  /* position: relative; */
+  margin-top: 100px;
+  z-index: 20;
+}
+
+#text-4 {
+  margin-left: 120px;
+  top: 0%;
+  font-family: "Abel", sans-serif;
+}
+
+#b {
+  display: flex;
+  margin-right: 10px;
+}
+
+#frame10 {
+  margin-left: 50px;
+  margin-top: 0px;
+  height: 250px;
+  position: relative;
+  margin-right: 10px;
+}
+
+/* .h9 {
+  margin-right: 1000px;
+} */
+
+#frame11 {
+  margin-right: 19px;
+  height: 250px;
+  position: relative;
+}
